@@ -1,0 +1,22 @@
+Map Generator
+	Start, End
+	Tiles
+
+Tower:
+	Canyon
+	Crossbow
+	Magic towers:
+		Poison
+		Snow
+
+Tower Upgrades(Only 6 upgrades):
+	Damage
+	Range
+	Attack Speed
+
+Enemies:
+	Skeleton
+	Goblin
+	Slime
+	Worm
+
